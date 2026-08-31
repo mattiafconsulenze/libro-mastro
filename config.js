@@ -8,5 +8,5 @@
 // su supabase.com, vai su Project Settings → API e incolla qui sotto la
 // "Project URL" e la chiave "anon public" (MAI la "service_role", quella
 // è segreta e non va messa in un file pubblico come questo).
-window.SUPABASE_URL = "";
-window.SUPABASE_ANON_KEY = "";
+window.SUPABASE_URL = "https://yfzxeapbhdgdknilxnkj.supabase.co";
+window.SUPABASE_ANON_KEY = "sb_publishable_n1N-hRi5jNDmrMIHgQPcUQ_nhCJMcuU";
